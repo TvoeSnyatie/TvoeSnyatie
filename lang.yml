@@ -956,20 +956,20 @@ SOUL_SELECT_COOLDOWN: '§b§lДУХИ: §fПодождите §e%s §fсек. п
 EFFECT_SELECT_COOLDOWN: '§b§lЭФФЕКТЫ: §fПодождите §e%s §fсек. перед повторной установкой эффекта'
 LOBBY_CHAT_FORMAT: '{prefix}§f{player} §8[§a{level}§8] » §7{message}'
 COMMAND_SKIN_FORMAT:
-- '§b§lСКИНЫ: §fУстановить скин: §a/skin [ник]'
-- '§b§lСКИНЫ: §fОчистить скин: §c/skin reset'
-SKIN_HAS_BEEN_RESET: '§b§lСКИНЫ: §fВы успешно §cочистили скин'
-SKIN_NAME_NOT_CORRECTED: '§b§lСКИНЫ: §cНеккоректный ник§f, минимальная длина ника - §a3§f, максимальная - §a16'
-SKIN_HAS_BEEN_UPDATED: '§b§lСКИНЫ: §fВы успешно сменили скин на §a%s'
-SKIN_REQUEST_EXCEPTION: '§b§lСКИНЫ: §fОшибка получения скина, попробуйте позже'
-SKIN_IS_DEFAULT: '§b§lСКИНЫ: §fВы пытаетесь установить стандартный скин, используйте §a/skin reset'
-SKIN_ALREADY_SET: '§b§lСКИНЫ: §fУ вас §aуже установлен §fданный скин'
+- '§b§lСкины §8| §fУстановить скин: §a/skin [ник]'
+- '§b§lСкины §8| §fОчистить скин: §c/skin reset'
+SKIN_HAS_BEEN_RESET: '§b§lСкины §8| §fВы успешно §cочистили скин'
+SKIN_NAME_NOT_CORRECTED: '§b§lСкины §8| §cНеккоректный ник§f, минимальная длина ника - §a3§f, максимальная - §a16'
+SKIN_HAS_BEEN_UPDATED: '§b§lСкины §8| §fВы успешно сменили скин на §a%s'
+SKIN_REQUEST_EXCEPTION: '§b§lСкины §8| §fОшибка получения скина, попробуйте позже'
+SKIN_IS_DEFAULT: '§b§lСкины §8| §fВы пытаетесь установить стандартный скин, используйте §a/skin reset'
+SKIN_ALREADY_SET: '§b§lСкины §8| §fУ вас §aуже установлен §fданный скин'
 #ONEBLOCK
 ONEBLOCK_BOARD_NAME: ' §b§lWaterGrief §8» §e§lОдинБлок '
 ONEBLOCK_BOARD_ISLAND_LINE: '   Фаза острова: §d'
 ONEBLOCK_BOARD_ACHIEVEMENTS_LINE: '   Достижения: '
 
-SHOP_SELL_NO_ITEMS: §b§lМАГАЗИН: §fУ вас §cнет §fнеобходимых предметов
+SHOP_SELL_NO_ITEMS: §b§lМагазин §8| §fУ вас §cнет §fнеобходимых предметов
 SHOP_HOVER_TEST: §fНажмите сюда, §fчтобы открыть этот магазин
 SHOP_FORMAT_NO_ARGS: /shop <название магазина>
 NO_PERMS_GROUP: §b§lWaterGrief §8| §fДанная возможность доступна от привилегии %s
@@ -1050,10 +1050,10 @@ SHOP_LORE_CHANGED:
 CANCEL_NAME: §cОтменить
 CONFIRMED_NAME: Подтвердить
 SHOP_FORMAT: /shop <название магазина>
-SHOP_NAMES: '§b§lМАГАЗИН: §fДоступные магазины: '
+SHOP_NAMES: '§b§lМагазин §8| §fДоступные магазины: '
 SHOP_NOT_FOUND: §cОшибка, магазин %s не найден
-SHOP_ALL_ITEMS_SELLED: §b§lМАГАЗИН: §fВы успешно продали §7%s §fx §7%s §fза §a%s$
-SHOP_ALL_ITEMS_BUY: §b§lМАГАЗИН: §fВы успешно купили §7%s §fx §7%s §fза §a%s$
+SHOP_ALL_ITEMS_SELLED: §b§lМагазин §8| §fВы успешно продали §7%s §fx §7%s §fза §a%s$
+SHOP_ALL_ITEMS_BUY: §b§lМагазин §8| §fВы успешно купили §7%s §fx §7%s §fза §a%s$
 SKYBLOCK_SHOP_BLOCKS: Магазин блоков
 SKYBLOCK_SHOP_FARMING: Магазин фермерства
 SKYBLOCK_SHOP_RES: Магазин ценных ресурсов
